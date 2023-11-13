@@ -69,7 +69,7 @@ https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.htm
 -   para execução do cenario via terminal é necessario estar na pasta 
 (..\prime-robot-orange\tests) e executar o comando 
 
-    robot ./results cadastro.robot
+    robot -d ./results tests/cadastro.robot
 
     ou executar o arquivo run.bat
 
